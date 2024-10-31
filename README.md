@@ -1,6 +1,6 @@
 # On the energy spectrum evolution of electrons undergoing radiation cooling
 
-Authors of paper: S.V. Bulanov, G.M. Grittani, R. Shaisultanov, T.Z. Esirkepov, C.P. Ridgers, S.S. Bulanov, B.K. Russell, A.G.R. Thomas
+Authors of paper: S.V. Bulanov, G.M. Grittani, R. Shaisultanov, T.Z. Esirkepov, C.P. Ridgers, S.S. Bulanov, B.K. Russell, A.G.R. Thomas (2024)
 
 Link to paper: https://doi.org/10.1016/j.fpp.2024.100036
 
